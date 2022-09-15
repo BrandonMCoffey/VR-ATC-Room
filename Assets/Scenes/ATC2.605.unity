@@ -593,7 +593,7 @@ MonoBehaviour:
       m_Calls: []
   m_TeleportationProvider: {fileID: 1471912454}
   m_MatchOrientation: 0
-  m_TeleportTrigger: 2
+  m_TeleportTrigger: 0
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
@@ -5837,7 +5837,7 @@ MonoBehaviour:
   m_Camera: {fileID: 1134771518}
   m_OriginBaseGameObject: {fileID: 1471912449}
   m_CameraFloorOffsetObject: {fileID: 999033122}
-  m_RequestedTrackingOriginMode: 1
+  m_RequestedTrackingOriginMode: 2
   m_CameraYOffset: 1.4
 --- !u!4 &1471912451
 Transform:
